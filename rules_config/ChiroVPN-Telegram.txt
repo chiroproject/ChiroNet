@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5694408544169542889",
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [],
+    "protocol": [
+      "bittorrent"
+    ],
+    "process": [],
+    "enabled": true
+  },
+  {
+    "id": "4641240096304151231",
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [
+      "geoip:telegram"
+    ],
+    "domain": [],
+    "process": [],
+    "enabled": true
+  },
+  {
+    "id": "5059557777707284606",
+    "port": "0-65535",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [],
+    "process": [],
+    "enabled": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "5212663979407199051",
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [],
+    "protocol": [
+      "bittorrent"
+    ],
+    "process": [],
+    "enabled": true
+  },
+  {
+    "id": "4866466561035491482",
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "ext:geoip.dat:ir"
+    ],
+    "domain": [
+      "ext:geosite.dat:ir",
+      "regexp:^.+\\.ir$"
+    ],
+    "process": [],
+    "enabled": true
+  },
+  {
+    "id": "5079776022314266033",
+    "port": "0-65535",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [],
+    "process": [],
+    "enabled": true
+  }
+]

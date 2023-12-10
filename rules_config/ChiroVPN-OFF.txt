@@ -1,0 +1,11 @@
+[
+  {
+    "id": "5253867738952306986",
+    "port": "0-65535",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [],
+    "process": [],
+    "enabled": true
+  }
+]
